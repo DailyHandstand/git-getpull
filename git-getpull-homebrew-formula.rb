@@ -5,8 +5,8 @@ require "formula"
 
 class GitGetpull < Formula
   homepage ""
-  url "https://github.com/DailyHandstand/git-getpull/archive/v0.9.tar.gz"
-  sha1 "17c153c32918474fab0d7cd728cd6543d69bad79"
+  url "https://github.com/DailyHandstand/git-getpull/archive/v1.0.zip"
+  sha1 "589feccb9f2a421774d84d0eb0ebf85c1066a7a8"
 
   def install
     bin.install "git-getpull" => "git-getpull"
