@@ -4,7 +4,7 @@
 require "formula"
 
 class GitGetpull < Formula
-  homepage ""
+  homepage "https://github.com/DailyHandstand/git-getpull"
   url "https://github.com/DailyHandstand/git-getpull/archive/v1.0.zip"
   sha1 "589feccb9f2a421774d84d0eb0ebf85c1066a7a8"
 
